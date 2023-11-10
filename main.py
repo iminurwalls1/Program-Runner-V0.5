@@ -2,7 +2,7 @@ import os
 import socket
 import time
 import subprocess
-from script_runner import run_function
+from script_runner import *
 
 running = True
 hostname = socket.gethostname()
