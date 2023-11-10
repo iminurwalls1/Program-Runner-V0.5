@@ -1,0 +1,21 @@
+2023-10-28 20:06:51 Command: help Status: None
+2023-10-28 20:06:53 Command: log Status: True
+2023-10-28 20:07:47 Command: runProgram Status: success
+2023-10-28 20:08:05 Command: exit Status: None
+2023-10-28 20:12:20 Command: & "C:/Users/GAMING MACHINE/AppData/Local/Programs/Python/Python310/python.exe" "c:/Users/GAMING MACHINE/Desktop/Program runner/main.py" Status: failure
+2023-10-28 20:12:42 Command: help Status: None
+2023-10-28 20:12:44 Command: log Status: False
+2023-10-28 20:13:10 Command: openBrowser Status: None
+2023-10-29 17:36:42 Command: help Status: None
+2023-10-29 17:36:52 Command: getMyIp Status: success
+2023-11-04 16:26:36 Command: help Status: None
+2023-11-04 16:26:41 Command: exit Status: None
+2023-11-04 16:27:15 Command: log Status: True
+2023-11-04 16:27:38 Command: runProgram Status: success
+2023-11-04 16:29:01 Command: & "C:/Users/GAMING MACHINE/AppData/Local/Programs/Python/Python310/python.exe" "c:/Users/GAMING MACHINE/Desktop/Program runner/main.py" Status: failure
+2023-11-04 16:29:18 Command: help Status: None
+2023-11-04 16:29:25 Command: log Status: True
+2023-11-04 16:30:38 Command: openBrowser Status: None
+2023-11-04 16:31:50 Command: & "C:/Users/GAMING MACHINE/AppData/Local/Programs/Python/Python310/python.exe" "c:/Users/GAMING MACHINE/Desktop/Program runner/main.py" Status: failure
+2023-11-04 16:33:40 Command: & "C:/Users/GAMING MACHINE/AppData/Local/Programs/Python/Python310/python.exe" "c:/Users/GAMING MACHINE/Desktop/Program runner/main.py" Status: failure
+2023-11-04 16:33:48 Command: & "C:/Users/GAMING MACHINE/AppData/Local/Programs/Python/Python310/python.exe" "c:/Users/GAMING MACHINE/Desktop/Program runner/main.py" Status: failure
